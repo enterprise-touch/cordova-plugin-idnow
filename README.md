@@ -3,7 +3,7 @@
 IDNOW plugin for Cordova.
 
 Android supported.
-iOS Support will be coming soon.
+
 
 Install with Cordova CLI:
 
